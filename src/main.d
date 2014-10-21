@@ -24,6 +24,10 @@ else
 {
 	int main(string args[])
 	{
+
+		writeln("I will stop the program now!");
+		return(0);
+
 		// get program arguments
 		WordcloudArguments arguments;
 		try arguments = WordcloudArguments(args);
