@@ -25,7 +25,7 @@ else
 	int main(string args[])
 	{
 
-		writeln("I will stop the program now!");
+		writeln("I hope you are fine. Have a nice day!");
 		return(0);
 
 		// get program arguments
